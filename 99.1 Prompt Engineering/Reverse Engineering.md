@@ -1,0 +1,5 @@
+Your Answer: I am a Student. As a teacher explain to me the definiton and benefits of version control in relation to DevOps. Include common tools they use. Keep the response 1 paragraph
+
+###### ChatGPT said:
+
+Version control in DevOps is a system that tracks changes to code over time, allowing multiple developers to collaborate efficiently and keep a history of modifications. It ensures that all team members are working with the latest version of code, and it enables easy collaboration through branching and merging. This is crucial in DevOps because it supports continuous integration (CI) and continuous deployment (CD), automating testing and deployment processes. Version control also makes it possible to quickly roll back to previous versions if issues arise, improving reliability. Common tools used in DevOps for version control include **Git**, **GitHub**, **GitLab**, and **Bitbucket**.
